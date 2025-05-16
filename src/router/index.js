@@ -3,12 +3,14 @@ import Welcome from '@/pages/Welcome.vue'
 import Home from '@/pages/Home.vue'
 import Chat from '@/pages/Chat.vue'
 import Profile from '@/pages/Profile.vue'
+import login from '@/pages/login.vue'
 
 const routes = [
     { path: '/', name: 'Welcome', component: Welcome }, // Default route
     { path: '/home', name: 'Home', component: Home },
     { path: '/chat', name: 'Chat', component: Chat },
     { path: '/profile', name: 'Profile', component: Profile },
+    { path: '/login', name: 'Login', component: login },
 ]
 
 const router = createRouter({
