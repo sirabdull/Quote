@@ -1,0 +1,20 @@
+App Name: Quote
+
+Quote is a private and anonymous chat app that allows users to express themselves honestly within invite-only groups or communities. While conversations are anonymous, users are required to sign in to join or create groups — this helps control access and protect group integrity. The app saves messages and group data online so users can access their conversations across devices.
+
+Core Idea:
+A secure, anonymous space where people can talk freely, ask questions, share experiences, or seek advice without fear of being exposed — but with controlled access through sign-in and private group invites.
+
+Main Features and Concepts:
+- Users must sign in to access the app
+- Users can create or join private chat groups
+- Each group functions like a closed, anonymous room
+- All conversations are saved online and synced across devices
+- No one can see anyone else's identity, even inside groups
+- Users can pin messages they find meaningful or want to revisit
+- Every message is anonymous but tied to a real, signed-in session
+- Users receive invite links to join specific communities
+- The app feels lightweight, mobile-first, and respectful of privacy
+- People use Quote to vent, share feelings, confess, or support one another without judgment
+
+The purpose of Quote is to blend the safety of anonymity with the reliability of user accounts — making it easy to express yourself while still keeping your space secure and manageable.
