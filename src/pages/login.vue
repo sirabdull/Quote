@@ -11,14 +11,14 @@
                 <div>
                     <label for="email" class="block text-sm font-medium text-gray-700 mb-1">Email</label>
                     <input type="email" id="email" v-model="email" required
-                        class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-black focus:border-transparent"
+                        class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-black focus:border-transparent"
                         placeholder="Enter your email">
                 </div>
 
                 <div>
-                    <label for="password" class="block text-sm font-medium text-gray-700 mb-1">Password</label>
+                    <label for="password" class="block text-sm font-medium text-gray-600 mb-1">Password</label>
                     <input type="password" id="password" v-model="password" required
-                        class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-black focus:border-transparent"
+                        class="w-full px-4 py-3 rounded-xl border border-gray-300  focus:ring- focus:border-transparent"
                         placeholder="Enter your password">
                 </div>
 

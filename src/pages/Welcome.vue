@@ -12,7 +12,7 @@
                         Get started
                     </router-link>
                     <router-link to="/login"
-                        class="px-6 py-3 bg-white text-black rounded-full hover:bg-slate-50 transition-all duration-300 border border-black flex items-center justify-center gap-2">
+                        class="px-6 py-3 bg-e text-black rounded-full hover:bg-slate-50 transition-all duration-300 border border-black flex items-center justify-center gap-2">
                         login
                     </router-link>
                 </div>
