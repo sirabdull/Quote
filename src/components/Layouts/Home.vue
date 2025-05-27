@@ -4,7 +4,7 @@
     <!-- Main content area -->
     <div class="content-area">
   
-      <slot name="content"></slot>
+      <slot > </slot>
     </div>
 
     <!-- Sticky bottom navigation -->

@@ -15,6 +15,7 @@ const routes = [
     { path: '/get-started', name: 'Getstarted', component: Getstarted },
     { path: '/dm', name: 'Dm', component: Dm },
 
+
 ]
 
 const router = createRouter({
