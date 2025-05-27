@@ -5,8 +5,7 @@ import Chat from '@/pages/Chat.vue'
 import Profile from '@/pages/Profile.vue'
 import login from '@/pages/login.vue'
 import Getstarted from '@/pages/Getstarted.vue'
-import Dashboard from '@/pages/Dashboard.vue'
-import NewUserDashboard from '@/pages/NewUserDashboard.vue'
+import Dm from '@/pages/Dm.vue'
 
 const routes = [
     { path: '/', name: 'Welcome', component: Welcome }, // Default route
@@ -14,8 +13,7 @@ const routes = [
     { path: '/profile', name: 'Profile', component: Profile },
     { path: '/login', name: 'Login', component: login },
     { path: '/get-started', name: 'Getstarted', component: Getstarted },
-    { path: '/dashboard', name: 'Dashboard', component: Dashboard },
-    { path: '/newuserdashboard', name: 'NewUserDashboard', component: NewUserDashboard },
+    { path: '/dm', name: 'Dm', component: Dm },
 
 ]
 
