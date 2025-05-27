@@ -1,6 +1,5 @@
 <template>
-
-  <Home >Dms</Home>
+  <Home>Dms</Home>
 </template>
 
 <script setup>
