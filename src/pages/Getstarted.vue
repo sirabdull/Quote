@@ -160,7 +160,7 @@ const handleProfileStep = async () => {
             username: username.value,
             photoFile: photoFile.value
         })
-        router.push('/dm')
+        router.push('/NewUserDashboard') // Redirect to the new user dashboard
     } catch (error) {
         console.error('Profile completion failed:', error)
     }
